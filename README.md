@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish Saini</h1>
-<h3 align="center">A passionate Machine learning and Deep learning Engineer.</h3>
+<h3 align="center">A passionate Machine learning and Deep learning Engineer</h3>
 
 - 🌱 I’m currently learning **AIML**
 
